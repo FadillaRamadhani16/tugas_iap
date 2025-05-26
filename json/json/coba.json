@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Fadilla Ramadhani",
+        "umur": 21,
+        "nim": "2217020040",
+        "lulus": true,
+        "hobby": [
+                "Nari",
+                "nyanyi"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Yaslinda Lizar",
+            "pembimbing2": "Ozzy Secio Riza"
+        }
+    },
+     {
+        "nama": "Fadilla Ramadhani",
+        "umur": 21,
+        "nim": "2217020040",
+        "lulus": true,
+        "hobby": [
+                "Nari",
+                "nyanyi"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Yaslinda Lizar",
+            "pembimbing2": "Ozzy Secio Riza"
+        }
+    }
+]
